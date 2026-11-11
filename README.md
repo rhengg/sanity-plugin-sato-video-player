@@ -1,5 +1,7 @@
 # Sanity Plugin Sato Video Player
 
+![My Profile](./sanity.png)
+
 ## Installation
 
 ```sh
