@@ -21,11 +21,13 @@ export function SatoPlayerInput(props: StringInputProps) {
         display: "flex",
         flexDirection: "column",
         gap: "12px",
+        width: "100%",
       },
     },
     React.createElement(TextInput, {
       ...elementProps,
       type: "text",
+      style: { width: "100%", minWidth: 0, boxSizing: "border-box" },
       value: value ?? "",
       placeholder: "Enter Sato Player Video Embed URL",
       onChange: handleChange,
