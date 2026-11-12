@@ -135,7 +135,7 @@ export default async function IndexPage() {
 
 ## License
 
-[MIT](LICENSE) © pranab bora
+[MIT](LICENSE) © Flixbox Solutions Private Limited
 
 ## Develop & test
 
